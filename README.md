@@ -1,0 +1,2 @@
+# Thermodynamic-Model-of-Electrocatalysis-
+The Thermodynamic Model of Electrocatalysis : Contain several Model of Vital Electrocatalytical Process, such as Oxygen  Evolution/ Reduction Reaction(ORR/OER),  Formic Acid Oxidation Reaction(FAOR), Carbon Dioxide Reduction Reaction(CDR),  Hydrogen Evolution/Oxidation Reaction(HER/HOR) and so on. These electroprocess and related research are vital for energy cyccle.
